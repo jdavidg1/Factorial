@@ -25,7 +25,6 @@ namespace Factorial
                 resultado *= n;
                 
             }
-            
             Console.WriteLine($"El factorial de {numero} es {resultado}");
             Console.ReadKey();
                 
